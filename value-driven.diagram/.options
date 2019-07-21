@@ -1,0 +1,7 @@
+# Tracing options for the value-driven.diagram plug-in
+
+# Common issues
+value-driven.diagram/debug=false
+
+# Visual IDs
+value-driven.diagram/debug/visualID=false
